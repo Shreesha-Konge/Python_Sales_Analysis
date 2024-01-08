@@ -1,6 +1,7 @@
 # Python_Sales_Analysis
-This is a pyhton project to analyse sales of the products.
-Here I used Python Pandas for Data cleaning,used Python matplotlib for visualizations to analyze and answer business questions about 12 months worth of sales data.
+This is a python based project to analyse sales of the products.
+
+The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.Here I used Python Pandas for Data cleaning,used Python matplotlib for visualizations to analyze and answer business questions about 12 months worth of sales data.
 
 Business questions:
 1) What was the best month for sales? How much was earned that month?
